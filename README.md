@@ -56,7 +56,7 @@
 <div align="center">
 
 <a href="mailto:nguyenphuonganh98987@gmail.com">
-  <img src="https://img.shields.io/badge/LinkedIn-C084FC?style=for-the-badge&logo=linkedin&logoColor=4B0082">
+  <img src="https://img.shields.io/badge/Gmail-C084FC?style=for-the-badge&logo=linkedin&logoColor=4B0082">
 </a>
 
 <br><br>
