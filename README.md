@@ -21,13 +21,14 @@
 
 ## 🐱💻 Hacker Cat Tech Stack  
 ### Languages  
-![Python](https://img.shields.io/badge/Python-00ffcc?style=for-the-badge&logo=python&logoColor=black)
-![C](https://img.shields.io/badge/C-00d0a8?style=for-the-badge&logo=c&logoColor=black)
+![Python](https://img.shields.io/badge/Python-D8B4FE?style=for-the-badge&logo=python&logoColor=4B0082)
+![C](https://img.shields.io/badge/C-C084FC?style=for-the-badge&logo=c&logoColor=4B0082)
+
 
 ### Tools  
-![Wireshark](https://img.shields.io/badge/Wireshark-00ffea?style=for-the-badge&logo=wireshark&logoColor=black)
-![Linux](https://img.shields.io/badge/Linux-00ffc3?style=for-the-badge&logo=linux&logoColor=black)
-![IDA Pro](https://img.shields.io/badge/IDA_Pro-00ff9d?style=for-the-badge&logo=hexo&logoColor=black)
+![Wireshark](https://img.shields.io/badge/Wireshark-D8B4FE?style=for-the-badge&logo=wireshark&logoColor=4B0082)
+![Linux](https://img.shields.io/badge/Linux-E9D5FF?style=for-the-badge&logo=linux&logoColor=4B0082)
+![IDA Pro](https://img.shields.io/badge/IDA_Pro-C084FC?style=for-the-badge&logo=hexo&logoColor=4B0082)
 
 ---
 
