@@ -23,13 +23,11 @@
 ### Languages  
 ![Python](https://img.shields.io/badge/Python-00ffcc?style=for-the-badge&logo=python&logoColor=black)
 ![C](https://img.shields.io/badge/C-00d0a8?style=for-the-badge&logo=c&logoColor=black)
-![Kotlin](https://img.shields.io/badge/Kotlin-00f2c3?style=for-the-badge&logo=kotlin&logoColor=black)
 
 ### Tools  
 ![Wireshark](https://img.shields.io/badge/Wireshark-00ffea?style=for-the-badge&logo=wireshark&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-00ffc3?style=for-the-badge&logo=linux&logoColor=black)
 ![IDA Pro](https://img.shields.io/badge/IDA_Pro-00ff9d?style=for-the-badge&logo=hexo&logoColor=black)
-![Android Studio](https://img.shields.io/badge/Android_Studio-00f4af?style=for-the-badge&logo=androidstudio&logoColor=black)
 
 ---
 
@@ -46,18 +44,27 @@
 ## 🖥️😼 Hacker Cat Stats  
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=phanhxinggai&show_icons=true&theme=tokyonight&icon_color=00ffcc&title_color=00ffc3" />
+<!-- Stats card -->
+<img
+  height="160"
+  src="https://github-stats-alpha.vercel.app/api?username=phanhxinggai&cc=000&tc=00ffc3&ic=00ffcc&lc=00ffc3&bg=0d1117"
+  alt="GitHub Stats"
+/>
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phanhxinggai&layout=compact&theme=tokyonight&title_color=00ffc3" />
+<!-- Top languages -->
+<img
+  height="160"
+  src="https://github-readme-stats-godkingjay.vercel.app/api/top-langs/?username=phanhxinggai&layout=compact&theme=tokyonight"
+  alt="Top Languages"
+/>
 
 </div>
 
----
 
 ## 🐱💨 Mèo chạy ngang màn hình  
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/hoanguyenit25/cute-cat-assets/main/cat-run.gif" width="400"/>
+<img src="https://media.tenor.com/2roX3uxz_68AAAAC/cat-running.gif" width="380"/>
 
 </div>
 
