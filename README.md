@@ -1,63 +1,93 @@
-<h1 align="center">✨ Hello, I'm Phương Anh ✨</h1>
+<!-- 🐱💻 HACKER CAT RUN-ACROSS SCREEN ANIMATION -->
+<style>
+@keyframes runCat {
+  0%   { left: -200px; }
+  100% { left: 110%; }
+}
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?duration=3000&color=FF69B4&center=true&vCenter=true&width=450&lines=USTH+ICT+Student;Cybersecurity+%F0%9F%94%90+%26+AI+%F0%9F%A7%AA;Android+Developer+%F0%9F%93%B1;Always+learning+new+things+%F0%9F%8C%B8" />
-</p>
+#running-cat {
+  position: fixed;
+  bottom: 20px;
+  left: -200px;
+  width: 160px;
+  animation: runCat 6s linear infinite;
+  z-index: 9999;
+}
+</style>
 
----
+<img id="running-cat" src="https://i.imgur.com/2M3G9Qy.gif">
 
-## 🌸 About Me  
-- 🎓 Final–year ICT student at **USTH**  
-- 🔐 Passionate in **Cybersecurity Blue Team / Forensics**  
-- 🤖 Working on **AI – Vietnamese Sign Language Recognition**  
-- 📱 Love building **Android apps (Kotlin, MVVM)**  
-- 🌷 A girl who likes productivity, cute things, and coding at midnight  
+<!-- 🐱💻 HACKER CAT INTRO -->
+<div align="center">
 
----
+<img src="https://i.imgur.com/2M3G9Qy.gif" width="180"/>
 
-## 🧸 Tech Stack  
-### 💻 Languages  
-![Python](https://img.shields.io/badge/Python-F4A7B9?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-FFB6C1?style=for-the-badge&logo=c&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-FF91A4?style=for-the-badge&logo=kotlin&logoColor=white)
+# 😼💻 **Phương Anh – Hacker Cat Mode Enabled**  
 
-### 🛠️ Tools  
-![Android Studio](https://img.shields.io/badge/Android%20Studio-FFC0CB?style=for-the-badge&logo=androidstudio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F7C5CC?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-F4A7B9?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-FFB6C1?style=for-the-badge&logo=wireshark&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FF9EBB?style=for-the-badge&logo=linux&logoColor=white)
+<img src="https://readme-typing-svg.herokuapp.com?duration=3000&pause=900&color=00FF9D&center=true&vCenter=true&width=500&lines=Cybersecurity+Kitten+%F0%9F%94%90;Malware+Analysis+%F0%9F%92%8E;Digital+Forensics+%F0%9F%94%AB;AI+Engineer+in+Training+%F0%9F%A4%96;Meow+Hacking+the+System+...+%F0%9F%90%B6" />
 
----
-
-## 🍡 Featured Projects  
-| Project | Description |
-|--------|-------------|
-| 🎬 **Sign Language Recognition** | MediaPipe + BiLSTM + Transformer translation model |
-| 📁 **Distributed Systems P1–P3** | TCP → RPC → MPI file transfer (USTH DS2026) |
-| 📱 **USTH GitHub Client** | Android MVVM + Retrofit + OAuth |
-| 🔍 **Cybersecurity Labs** | Forensics, Malware analysis, PCAP investigation |
+</div>
 
 ---
 
-## 🎀 GitHub Stats  
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=phanhxinggai&show_icons=true&theme=rose_pine&icon_color=ffb6c1&title_color=ff9eb5"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phanhxinggai&layout=compact&theme=rose_pine&title_color=ff9eb5"/>
-</p>
+## 🐾👾 About Me  
+- 🎓 USTH CS student (Cybersecurity girl 😼🔥)  
+- 🐱 Specializes in **Blue Team, Forensics, Malware Analysis**  
+- 🤖 Building **AI for Vietnamese Sign Language**  
+- 💻 Loves Linux, debugging, reversing, packets, logs & meow meow  
+- 😼 Always learning, always hacking (in ethical ways ofc)
 
 ---
 
-## 💌 Contact me  
-<p align="center">
-  <a href="mailto:yourmail@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-FF9EBB?style=for-the-badge&logo=gmail&logoColor=white">
+## 💻🐱 Hacker Cat Tech Stack  
+### 📌 Languages  
+![Python](https://img.shields.io/badge/Python-00ffcc?style=for-the-badge&logo=python&logoColor=black)
+![C](https://img.shields.io/badge/C-00d0a8?style=for-the-badge&logo=c&logoColor=black)
+
+
+### 👾 Tools
+![Wireshark](https://img.shields.io/badge/Wireshark-00ffea?style=for-the-badge&logo=wireshark&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-00ffc3?style=for-the-badge&logo=linux&logoColor=black)
+![IDA Pro](https://img.shields.io/badge/IDA_Pro-00ff9d?style=for-the-badge&logo=hexo&logoColor=black)
+
+
+---
+
+## 🐱🔥 Featured Projects  
+| Project | Hacker Cat Description |
+|--------|-------------------------|
+| 😼 **PCAP Investigation Labs** | Packet sniffing + attack trace hunting |
+| 🧪 **Malware Analysis** | Static + dynamic + reversing (IDA + strings + entropy) |
+| 🤖 **Sign Language AI**
+| 💻 **Distributed Systems**
+
+---
+
+## 💻😼 Hacker Cat Stats  
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=phanhxinggai&show_icons=true&theme=tokyonight&icon_color=00ffcc&title_color=00ffc3" />
+
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phanhxinggai&layout=compact&theme=tokyonight&title_color=00ffc3" />
+
+</div>
+
+---
+
+## 🐾💌 Contact  
+<div align="center">
+  
+  <a href="mailto: nguyenphuonganh98987@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-00ffcc?style=for-the-badge&logo=gmail&logoColor=black">
   </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-F4A7B9?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</p>
+
+  
+
+  <br><br>
+  <img src="https://i.imgur.com/2M3G9Qy.gif" width="140" />
+
+</div>
 
 ---
 
-<p align="center">🌷 *Thank you for visiting my profile!* 🌷</p>
+<p align="center">😼💻 *Hacker Cat has logged out... for now.* 🐾</p>
