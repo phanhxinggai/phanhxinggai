@@ -41,27 +41,8 @@
 
 ---
 
-## 🖥️😼 Hacker Cat Stats  
-<div align="center">
 
-<!-- Stats card -->
-<img
-  height="160"
-  src="https://github-stats-alpha.vercel.app/api?username=phanhxinggai&cc=000&tc=00ffc3&ic=00ffcc&lc=00ffc3&bg=0d1117"
-  alt="GitHub Stats"
-/>
-
-<!-- Top languages -->
-<img
-  height="160"
-  src="https://github-readme-stats-godkingjay.vercel.app/api/top-langs/?username=phanhxinggai&layout=compact&theme=tokyonight"
-  alt="Top Languages"
-/>
-
-</div>
-
-
-## 🐱💨 Mèo chạy ngang màn hình  
+## 🐱💨 
 <div align="center">
 
 <img src="https://media.tenor.com/2roX3uxz_68AAAAC/cat-running.gif" width="380"/>
