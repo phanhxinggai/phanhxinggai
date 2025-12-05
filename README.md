@@ -12,7 +12,7 @@
 ---
 
 ## 🐾👾 About Me  
-- 🎓 USTH ICT student  
+- 🎓 USTH CS student  
 - 😼 Blue Team + Forensics + Malware Analysis  
 - 🤖 AI for Vietnamese Sign Language  
 - 🐱 Loves Linux, packets, reversing, coding at 2AM  
